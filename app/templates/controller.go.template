@@ -1,0 +1,4 @@
+package controller
+
+
+type @controller_name@ struct {}
